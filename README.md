@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on: Microservices Architecture and TLS level encryption<br>👯‍♂️ I'm looking to collaborate on: Scalable applications<br>🤝 I'm looking for help with: Message brokers and CI/CD pipelines<br>🌱 I'm currently learning: DevOps and scaling backend/frontend applications<br>💬 Ask me about: Node.js, RabbitMQ, Redis, MongoDB, React.js, Next.js<br>⚡ Fun fact: JavaScript was created in just 10 days by Brendan Eich in 1995 and was originally called "Mocha" before being renamed twice!
 
+### Debugging be like:
+<img src="https://media.giphy.com/media/FoH28ucxZFJZu/giphy.gif" width="400"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sharma-as) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CherryOnKacke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunsharma003as@gmail.com) 
