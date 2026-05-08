@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arjun%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Engineer+%F0%9F%9A%80;Microservices+%26+Distributed+Systems;ML+%7C+PyTorch+%7C+LSTMs+%7C+Transformers;500%2B+DSA+Problems+Solved+%E2%9C%85;Building+things+that+scale+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Engineer+%F0%9F%9A%80;Microservices+%26+Distributed+Systems;ML+%7C+PyTorch+%7C+LSTMs+%7C+Transformers;Building+things+that+scale+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 
@@ -21,9 +21,6 @@
   </a>
   <a href="https://substack.com/@serversidecoder" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
-  </a>
-  <a href="https://leetcode.com/CosmixCode" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
