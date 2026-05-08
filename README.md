@@ -37,7 +37,7 @@
 const arjun = {
   role:       "Software Engineer",
   location:   "India 🇮🇳",
-  education:  "B.Tech CSE @ KIET Group of Institutions (2022–2026)",
+  education:  "B.Tech CS @ KIET Group of Institutions (2022–2026)",
   current:    ["ML Engineering", "Distributed Systems", "Backend Infrastructure"],
   interests:  ["Mathematics", "DevOps", "System Design"],
   writing:    "https://substack.com/@serversidecoder",
