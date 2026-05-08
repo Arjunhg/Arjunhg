@@ -56,7 +56,7 @@ const arjun = {
 <tr>
 <td width="50%">
 
-### 🛩️ [Hyperplane](https://github.com/hyperplane)
+### 🛩️ [Hyperplane](https://github.com/Arjunhg/hyperplane)
 > Real-time aircraft trajectory prediction system
 
 - **Predictive Intelligence:** Trained a self-supervised LSTM + Autoencoder stack to "learn" flight patterns without labeled datasets.
@@ -68,7 +68,7 @@ const arjun = {
 </td>
 <td width="50%">
 
-### 🤝 [PeerPath](https://github.com/peerpath)
+### 🤝 [PeerPath](https://github.com/Arjunhg/peerpath)
 > AI-powered peer mentorship matching platform
 
 - **Smart Discovery:** Built an LLM-engine that looks past keywords to match mentors based on actual skill compatibility.
@@ -82,7 +82,7 @@ const arjun = {
 <tr>
 <td width="50%">
 
-### ⚡ [Triggr](https://github.com/triggr)
+### ⚡ [Triggr](https://github.com/Arjunhg/triggr)
 > Real-time visual workflow automation engine
 
 - **Canvas-First Logic:** Built a drag-and-drop IDE using 7 custom React Flow nodes for complex state handling.
