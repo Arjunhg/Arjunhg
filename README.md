@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/FoH28ucxZFJZu/giphy.gif" width="400"/>
 
 ## 🌐 Socials:
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arjunhg.Arjunhg&left_color=%2321262d&right_color=%23238636)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sharma-as) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CherryOnKacke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunsharma003as@gmail.com) 
 
 # 💻 Tech Stack:
